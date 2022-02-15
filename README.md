@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![GitHub last commit](https://img.shields.io/github/last-commit/ragonneau/ragonneau)
+
+[![Tom M. Ragonneau's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragonneau&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ragonneau/ragonneau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
