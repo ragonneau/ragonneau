@@ -14,6 +14,9 @@ I am a fresh Ph.D. graduate from the [Department of Applied Mathematics](https:/
 ## My current projects
 
 I am currently working on [COBYQA](https://www.cobyqa.com/), a derivative-free solver for general nonlinear optimization.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cobyqa&repo=cobyqa&show_owner=true)](https://github.com/cobyqa/cobyqa/)
+
 This project will later be included within [PDFO](https://www.pdfo.net/), a cross-platform package providing Python and MATLAB interfaces for using Powell's derivative-free optimization solvers, jointly developed with Dr. [Zaikun Zhang](https://www.zhangzk.net/).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragonneau&layout=compact)](https://github.com/anuraghazra/github-readme-stats/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pdfo&repo=pdfo&show_owner=true)](https://github.com/pdfo/pdfo/)
