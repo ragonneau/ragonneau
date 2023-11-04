@@ -1,22 +1,17 @@
-<h1 align="center">
-    Hi :wave: I am <a href="https://www.tomragonneau.com/" target="_blank">Tom M. Ragonneau</a>
-</h1>
+I am [Tom M. Ragonneau](https://tomragonneau.com), a postdoctoral fellow at the [CAS AMSS-PolyU Joint Laboratory of Applied Mathematics](https://www.polyu.edu.hk/en/ama/research-and-consultancy/cas-amss-polyu-jlab/).
+I recently graduated from the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by Dr. [Zaikun Zhang](https://www.zhangzk.net) and Prof. [Xiaojun Chen](https://www.polyu.edu.hk/ama/staff/xjchen/ChenXJ.htm).
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ragonneau/ragonneau?logo=github&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/ragonneau?logo=github&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/ragonneau?logo=github&style=for-the-badge)
+## Statistics
 
+[![Tom M. Ragonneau's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragonneau&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats/)
 
-I am a fresh Ph.D. graduate from the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragonneau&size_weight=0.5&count_weight=0.5&theme=dracula)
 
-[![Tom M. Ragonneau's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragonneau&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats/)
+## Current projects
 
-## My current projects
-
-I am currently working on [COBYQA](https://www.cobyqa.com/), a derivative-free solver for general nonlinear optimization.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cobyqa&repo=cobyqa&show_owner=true)](https://github.com/cobyqa/cobyqa/)
-
-This project will later be included within [PDFO](https://www.pdfo.net/), a cross-platform package providing Python and MATLAB interfaces for using Powell's derivative-free optimization solvers, jointly developed with Dr. [Zaikun Zhang](https://www.zhangzk.net/).
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pdfo&repo=pdfo&show_owner=true)](https://github.com/pdfo/pdfo/)
+- [COBYQA](https://github.com/cobyqa/cobyqa/): a derivative-free optimization method for solving nonlinearly constrained optimization problems.
+[![COBYQA Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cobyqa&repo=cobyqa&show_owner=true)](https://github.com/cobyqa/cobyqa/)
+- [PDFO](https://github.com/pdfo/pdfo/): a Python and MATLAB interface for Powell's derivative-free optimization solvers.
+[![PDFO Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pdfo&repo=pdfo&show_owner=true)](https://github.com/pdfo/pdfo/)
+- [OptiProfiler](https://github.com/OptiProfiler/OptiProfiler/): a Python and MATLAB package for benchmarking derivative-free optimization solvers.
+[![OptiProfiler Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OptiProfiler&repo=OptiProfiler&show_owner=true)](https://github.com/OptiProfiler/OptiProfiler/)
