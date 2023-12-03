@@ -1,5 +1,5 @@
 I am [Tom M. Ragonneau](https://tomragonneau.com), a postdoctoral fellow at the [CAS AMSS-PolyU Joint Laboratory of Applied Mathematics](https://www.polyu.edu.hk/en/ama/research-and-consultancy/cas-amss-polyu-jlab/).
-I recently graduated from the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
+I recently graduated from the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
 
 ## Statistics
 
