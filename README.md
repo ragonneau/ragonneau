@@ -1,6 +1,3 @@
-I am [Tom M. Ragonneau](https://tomragonneau.com), a postdoctoral fellow at the [CAS AMSS-PolyU Joint Laboratory of Applied Mathematics](https://www.polyu.edu.hk/en/ama/research-and-consultancy/cas-amss-polyu-jlab/).
-I recently graduated from the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
-
 ## Statistics
 
 [![Tom M. Ragonneau's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragonneau&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats/)
