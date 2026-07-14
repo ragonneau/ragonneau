@@ -10,5 +10,3 @@
 [![COBYQA Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cobyqa&repo=cobyqa&show_owner=true)](https://github.com/cobyqa/cobyqa/)
 - [PDFO](https://github.com/pdfo/pdfo/): a Python and MATLAB interface for Powell's derivative-free optimization solvers.
 [![PDFO Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pdfo&repo=pdfo&show_owner=true)](https://github.com/pdfo/pdfo/)
-- [OptiProfiler](https://github.com/OptiProfiler/OptiProfiler/): a Python and MATLAB package for benchmarking derivative-free optimization solvers.
-[![OptiProfiler Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OptiProfiler&repo=OptiProfiler&show_owner=true)](https://github.com/OptiProfiler/OptiProfiler/)
