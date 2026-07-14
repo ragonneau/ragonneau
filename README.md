@@ -6,7 +6,7 @@
 
 ## Current projects
 
-- [COBYQA](https://github.com/cobyqa/cobyqa/): a derivative-free optimization method for solving nonlinearly constrained optimization problems.
+* [COBYQA](https://github.com/cobyqa/cobyqa/): a derivative-free optimization method for solving nonlinearly constrained optimization problems.
 [![COBYQA Readme Card](https://github-readme-stats.shion.dev/api/pin/?username=cobyqa&repo=cobyqa&show_owner=true)](https://github.com/cobyqa/cobyqa/)
-- [PDFO](https://github.com/pdfo/pdfo/): a Python and MATLAB interface for Powell's derivative-free optimization solvers.
+* [PDFO](https://github.com/pdfo/pdfo/): a Python and MATLAB interface for Powell's derivative-free optimization solvers.
 [![PDFO Readme Card](https://github-readme-stats.shion.dev/api/pin/?username=pdfo&repo=pdfo&show_owner=true)](https://github.com/pdfo/pdfo/)
